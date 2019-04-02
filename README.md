@@ -3,7 +3,7 @@
 ## Introduction
 
 This dataset is provided by Facebook as a part of recruiting challenge on Kaggle.
-This is a graph link prediction problem. The challenge is to predict missing links in a social nwtwork.
+This is a graph link prediction problem. The challenge is to predict missing links in a social network.
 
 Facebook has not provided the source of the data, we are just given directed social graphs from which some edges have been deleted. Our task is to make predictions for users who might want to follow other users.
 
