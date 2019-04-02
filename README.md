@@ -26,16 +26,16 @@ __This is how our train data looks like__
 
 Source_node Destination_node
 
-1 690569
-1 315892
-1 189226
-2 834328
-2 1615927
-2 1194519
-2 470294
-2 961886
-2 626040
-3 176995
+- 1 690569
+- 1 315892
+- 1 189226
+- 2 834328
+- 2 1615927
+- 2 1194519
+- 2 470294
+- 2 961886
+- 2 626040
+- 3 176995
 
 From the data we can say that user1 is a source node, following user690569 which is our destination node.
 
